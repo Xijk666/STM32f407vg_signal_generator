@@ -9,15 +9,15 @@
 
 <p align="center">
   <a href="https://github.com/doubthek1ng2007/STM32f407vg_signal_generator/stargazers">
-    <img src="https://img.shields.io/github/stars/doubthek1ng2007/STM32f407vg_signal_generator?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars">
+    <img src="https://img.shields.io/badge/Stars-0-555555?style=for-the-badge&logo=github" alt="GitHub stars">
   </a>
   <a href="https://github.com/doubthek1ng2007/STM32f407vg_signal_generator/network/members">
-    <img src="https://img.shields.io/github/forks/doubthek1ng2007/STM32f407vg_signal_generator?style=for-the-badge&logo=github&label=Forks" alt="GitHub forks">
+    <img src="https://img.shields.io/badge/Forks-0-0A7BBC?style=for-the-badge&logo=github" alt="GitHub forks">
   </a>
   <a href="https://github.com/doubthek1ng2007/STM32f407vg_signal_generator">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoubthek1ng2007%2FSTM32f407vg_signal_generator&count_bg=%2300A6A6&title_bg=%23222222&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false" alt="Repository views">
+    <img src="https://komarev.com/ghpvc/?username=doubthek1ng2007-STM32f407vg_signal_generator&label=Views&style=for-the-badge&color=00A6A6" alt="Repository views">
   </a>
-  <img src="https://img.shields.io/github/last-commit/doubthek1ng2007/STM32f407vg_signal_generator?style=for-the-badge&label=Last%20commit" alt="Last commit">
+  <img src="https://img.shields.io/badge/Last%20commit-today-44CC11?style=for-the-badge" alt="Last commit">
 </p>
 
 <p align="center">
@@ -157,4 +157,3 @@ If your exact TFT module shifts the image differently, tune only these two value
 ## License
 
 This repository includes STM32 HAL/CMSIS files under their original ST licenses in the `Drivers/` directory. Project-specific source files are intended for educational and lab work.
-
