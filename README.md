@@ -90,7 +90,7 @@ Firmware for a two-channel signal generator based on **STM32F407VGT6**. The proj
 - ST7735 128x160 RGB display UI.
 - Rotary encoder with debounce, click and long-press handling.
 - Selectable encoder frequency step: `1`, `5`, `10`, `50`, `100`, `250`, `500`, `1000`, `10000` Hz.
-- `By Xijk` signature on the device screen.
+- `By Xijk666` signature on the device screen.
 
 ### Hardware
 
