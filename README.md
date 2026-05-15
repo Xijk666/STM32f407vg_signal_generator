@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Forks-0-0A7BBC?style=for-the-badge&logo=github" alt="GitHub forks">
   </a>
   <a href="https://github.com/doubthek1ng2007/STM32f407vg_signal_generator">
-    <img src="https://komarev.com/ghpvc/?username=doubthek1ng2007-STM32f407vg_signal_generator&label=Views&style=for-the-badge&color=00A6A6" alt="Repository views">
+    <img src="https://img.shields.io/badge/Views-0-00A6A6?style=for-the-badge&logo=github" alt="Repository views">
   </a>
   <img src="https://img.shields.io/badge/Last%20commit-today-44CC11?style=for-the-badge" alt="Last commit">
 </p>
