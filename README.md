@@ -17,8 +17,6 @@
   <a href="https://github.com/doubthek1ng2007/STM32f407vg_signal_generator">
     <img src="https://img.shields.io/badge/Views-0-00A6A6?style=for-the-badge&logo=github" alt="Repository views">
   </a>
-  <img src="https://img.shields.io/badge/Last%20commit-today-44CC11?style=for-the-badge" alt="Last commit">
-</p>
 
 <p align="center">
   <a href="#russian"><b>Русский</b></a>
